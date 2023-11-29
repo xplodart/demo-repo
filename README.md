@@ -6,3 +6,7 @@ Some description!
 
 
 Next text
+
+## Feature local development
+
+1. Open index.html in your browser
